@@ -15,6 +15,7 @@ const io = new Server(server, {
     origin: [
       "http://localhost:5173",
       "https://youtube-watch-party-o7ro-h83d200zb-akriti0109.vercel.app",
+      "https://youtube-watch-party-gold.vercel.app",
     ],
     methods: ["GET", "POST"],
   },
