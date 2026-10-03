@@ -413,7 +413,7 @@ This provides server-side protection instead of relying only on disabled fronten
 ## 🌐 Live Demo
 
 **Live Application:**
-`https://youtube-watch-party-o7ro-h83d200zb-akriti0109.vercel.app`
+`https://youtube-watch-party-gold.vercel.app`
 
 **Backend:**
 `https://youtube-watch-party-sttg.onrender.com`
