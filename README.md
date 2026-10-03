@@ -386,41 +386,37 @@ This provides server-side protection instead of relying only on disabled fronten
 
 ## 📸 Screenshots
 
-Add screenshots of the application here after deployment.
+
 
 ### Home Page
 
-```text
-Add Home Page screenshot here
-```
+<img width="1046" height="838" alt="Home page" src="https://github.com/user-attachments/assets/31e5495f-fcbe-4f00-adac-006c7bafd747" />
+
 
 ### Watch Party Room
 
-```text
-Add Watch Party screenshot here
-```
+<img width="1822" height="857" alt="Host" src="https://github.com/user-attachments/assets/ca915963-d001-4ad0-9482-d2f4b1ee1edc" />
+
 
 ### Participant & Role Management
 
-```text
-Add Participant Management screenshot here
-```
+<img width="438" height="382" alt="Participants" src="https://github.com/user-attachments/assets/c037e827-6451-4996-9f27-6e62ededb847" />
+
 
 ### Real-Time Chat
 
-```text
-Add Chat screenshot here
-```
+<img width="417" height="458" alt="chat" src="https://github.com/user-attachments/assets/4fcd791e-a227-4734-acf8-a627bbae9b62" />
+
 
 ---
 
 ## 🌐 Live Demo
 
 **Live Application:**
-`ADD_DEPLOYED_FRONTEND_URL_HERE`
+`https://youtube-watch-party-o7ro-h83d200zb-akriti0109.vercel.app`
 
 **Backend:**
-`ADD_DEPLOYED_BACKEND_URL_HERE`
+`https://youtube-watch-party-sttg.onrender.com`
 
 > Deployment URLs will be added after deploying the frontend and backend.
 
