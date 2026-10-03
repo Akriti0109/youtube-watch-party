@@ -221,9 +221,8 @@ socket.on("receive_message", (data) => {
   }
 },
 
-          onStateChange: (event: any) => {
-            
-          },
+          onStateChange: () => {
+},
         },
       });
     };
